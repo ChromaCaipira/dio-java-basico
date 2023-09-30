@@ -1,5 +1,8 @@
 {
     "java.project.sourcePaths": [
-        "estudos/src/edu/guilherme/sintaxejava"
+        "src",
+        "src/edu/guilherme/sintaxejava",
+        "src/edu/guilherme/sintaxejava/metodos",
+        "src/edu/guilherme/sintaxejava/terminalArgumentos"
     ]
 }
