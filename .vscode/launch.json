@@ -6,6 +6,41 @@
     "configurations": [
         {
             "type": "java",
+            "name": "PlanoOperadora",
+            "request": "launch",
+            "mainClass": "edu.guilherme.controlefluxo.PlanoOperadora",
+            "projectName": "dio-java-basico_1a9bffa7"
+        },
+        {
+            "type": "java",
+            "name": "SistemaMedida",
+            "request": "launch",
+            "mainClass": "edu.guilherme.controlefluxo.SistemaMedida",
+            "projectName": "dio-java-basico_1a9bffa7"
+        },
+        {
+            "type": "java",
+            "name": "ResultadoEscolarTernario",
+            "request": "launch",
+            "mainClass": "edu.guilherme.controlefluxo.ResultadoEscolarTernario",
+            "projectName": "dio-java-basico_1a9bffa7"
+        },
+        {
+            "type": "java",
+            "name": "ResultadoEscolar",
+            "request": "launch",
+            "mainClass": "edu.guilherme.controlefluxo.ResultadoEscolar",
+            "projectName": "dio-java-basico_1a9bffa7"
+        },
+        {
+            "type": "java",
+            "name": "CaixaEletronico",
+            "request": "launch",
+            "mainClass": "edu.guilherme.controlefluxo.CaixaEletronico",
+            "projectName": "dio-java-basico_1a9bffa7"
+        },
+        {
+            "type": "java",
             "name": "AboutMe2",
             "request": "launch",
             "mainClass": "AboutMe2",

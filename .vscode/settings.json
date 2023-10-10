@@ -3,6 +3,7 @@
         "src",
         "src/edu/guilherme/sintaxejava",
         "src/edu/guilherme/sintaxejava/metodos",
-        "src/edu/guilherme/sintaxejava/terminalArgumentos"
+        "src/edu/guilherme/sintaxejava/terminalArgumentos",
+        "src/edu/guilherme/controlefluxo"
     ]
 }
