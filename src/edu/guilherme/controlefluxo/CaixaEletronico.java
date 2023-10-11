@@ -9,9 +9,10 @@ public class CaixaEletronico {
         System.out.println("Valor Solicitado: " + valorSolicitado);
 
         // CONDICIONAL SIMPLES
-        /* if (valorSolicitado < saldo) { // APENAS SE A CONDICIONAL É VERDADEIRA
-        /    saldo -= valorSolicitado;
-        /}
+        /*
+        if (valorSolicitado < saldo) { // APENAS SE A CONDICIONAL É VERDADEIRA
+            saldo -= valorSolicitado;
+        }
         */
 
         // CONDICIONAL COMPOSTA
