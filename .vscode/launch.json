@@ -6,6 +6,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "FormatadorCep",
+            "request": "launch",
+            "mainClass": "edu.guilherme.estruturaexcepcional.FormatadorCep",
+            "projectName": "dio-java-basico_1a9bffa7"
+        },
+        {
+            "type": "java",
+            "name": "AboutMeException",
+            "request": "launch",
+            "mainClass": "edu.guilherme.estruturaexcepcional.AboutMeException",
+            "projectName": "dio-java-basico_1a9bffa7"
+        },
+        {
+            "type": "java",
             "name": "ExemploDoWhile",
             "request": "launch",
             "mainClass": "edu.guilherme.estruturarepeticao.ExemploDoWhile",
