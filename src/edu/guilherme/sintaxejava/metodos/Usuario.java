@@ -1,3 +1,5 @@
+package edu.guilherme.sintaxejava.metodos;
+
 public class Usuario {
     public static void main(String [] args) throws Exception {
         SmartTV smartTv = new SmartTV();

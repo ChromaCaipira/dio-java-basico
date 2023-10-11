@@ -1,3 +1,5 @@
+package edu.guilherme.sintaxejava;
+
 public class TiposVariaveis {
     
     public static void main(String [] args) {

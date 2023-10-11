@@ -1,3 +1,5 @@
+package edu.guilherme.sintaxejava.metodos;
+
 public class SmartTV {
     boolean ligada = false;
     int canal = 1;
