@@ -1,14 +1,13 @@
 package edu.guilherme.estruturaexcepcional;
 
 import java.util.InputMismatchException;
-import java.util.Locale;
 import java.util.Scanner;
 
 public class AboutMeException {
     public static void main(String[] args) {
         try {
         // CRIAÇÃO DO OBJETO SCANNER
-        Scanner scanner = new Scanner(System.in).useLocale(Locale.US);
+        Scanner scanner = new Scanner(System.in);
 
         // TÍTULO DO PROGRAMA
         System.out.println("[ABOUTME 3.0 - ENTRADA DO USUÁRIO]");

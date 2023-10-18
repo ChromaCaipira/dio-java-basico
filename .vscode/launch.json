@@ -6,6 +6,27 @@
     "configurations": [
         {
             "type": "java",
+            "name": "ComputadorMensagens",
+            "request": "launch",
+            "mainClass": "edu.guilherme.pilarespoo.ComputadorMensagens",
+            "projectName": "dio-java-basico_1a9bffa7"
+        },
+        {
+            "type": "java",
+            "name": "ParOuImpar",
+            "request": "launch",
+            "mainClass": "ParOuImpar",
+            "projectName": "dio-java-basico_1a9bffa7"
+        },
+        {
+            "type": "java",
+            "name": "SistemaIbge",
+            "request": "launch",
+            "mainClass": "edu.guilherme.fundamentopoo.SistemaIbge",
+            "projectName": "dio-java-basico_1a9bffa7"
+        },
+        {
+            "type": "java",
             "name": "FormatadorCep",
             "request": "launch",
             "mainClass": "edu.guilherme.estruturaexcepcional.FormatadorCep",
