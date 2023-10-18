@@ -1,4 +1,4 @@
-package edu.guilherme.pilarespoo.appsmensagem;
+package edu.guilherme.pilarespoo.aulaspilares.appsmensagem;
 
 public abstract class ServicoMensagemInstantanea {
     public abstract void enviarMensagem();

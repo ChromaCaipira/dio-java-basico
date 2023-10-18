@@ -1,11 +1,11 @@
-package edu.guilherme.pilarespoo;
+package edu.guilherme.pilarespoo.aulaspilares;
 
 import java.util.Scanner;
 
-import edu.guilherme.pilarespoo.appsmensagem.FacebookMessenger;
-import edu.guilherme.pilarespoo.appsmensagem.MSNMessenger;
-import edu.guilherme.pilarespoo.appsmensagem.ServicoMensagemInstantanea;
-import edu.guilherme.pilarespoo.appsmensagem.Telegram;
+import edu.guilherme.pilarespoo.aulaspilares.appsmensagem.FacebookMessenger;
+import edu.guilherme.pilarespoo.aulaspilares.appsmensagem.MSNMessenger;
+import edu.guilherme.pilarespoo.aulaspilares.appsmensagem.ServicoMensagemInstantanea;
+import edu.guilherme.pilarespoo.aulaspilares.appsmensagem.Telegram;
 
 public class ComputadorMensagens {
     public static void main(String[] args) {

@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Fabrica",
+            "request": "launch",
+            "mainClass": "edu.guilherme.pilarespoo.aulainterfaces.estabelecimento.Fabrica",
+            "projectName": "dio-java-basico_1a9bffa7"
+        },
+        {
+            "type": "java",
             "name": "ComputadorMensagens",
             "request": "launch",
             "mainClass": "edu.guilherme.pilarespoo.ComputadorMensagens",
